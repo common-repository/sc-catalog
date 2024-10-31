@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sc_cat-nl_NL\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bouke J. Henstra <bouke@ict-diensten.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+# SC Catalog Dutch translation
+# Copyright 2012 Bouke J. Henstra (email: bouke@ict-diensten.com>)
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid "Catalog"
+msgstr "Catalogus"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "There is currently no item in your catalog"
+msgstr "Er is op dit moment geen item in uw catalogus"
+
+msgid "Unable to save changes"
+msgstr "Niet mogelijk om wijzigingen op te slaan"
+
+msgid "%s added"
+msgstr "%s toegevoegd"
+
+msgid "%s updated"
+msgstr "%s bijgewerkt"
+
+msgid "No category"
+msgstr "Geen categorie"
+
+msgid "Edit"
+msgstr "Wijzig"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Up"
+msgstr "Omhoog"
+
+msgid "Down"
+msgstr "Omlaag"
+
+msgid "Do you really want to delete %s?"
+msgstr "Wilt u %s echt verwijderen?"
+
+msgid "Catalog item"
+msgstr "Catalogus item"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Choose image"
+msgstr "Kies afbeelding"
+
+msgid "Remove image"
+msgstr "Verwijdere afbeelding"
+
+msgid "Catch phrase"
+msgstr "Catchphrase"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Read more"
+msgstr "Meer informatie"
+
+msgid "Display your catalog"
+msgstr "Toon uw catalogus"
+
+msgid "How to display your catalog"
+msgstr "Wijze waarop u uw catalogus weer wilt geven"
+
+msgid "Add a few items on the catalog admin panel and insert the shortcode [catalog] (including square backets) in a page or a post, where you want it to be displayed."
+msgstr "Voeg enkele items toe aan het catalogus paneel en voeg de shortcode [catalog] (inclusief brackets) aan een pagina of bericht toe, waar u deze wilt weergeven."
+

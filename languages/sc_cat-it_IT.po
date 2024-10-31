@@ -1,0 +1,107 @@
+# ken <kenshir@mail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-08-23 04:31+0200\n"
+"Last-Translator: ken <kenshir@mail.com>\n"
+"Language-Team: hok\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0\n"
+
+# SC Catalog Italian translation
+# Copyright 2012 Gimmy <kenshir@mail.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid "Catalog"
+msgstr "Catalogo"
+
+msgid "Add"
+msgstr "Aggiungi"
+
+msgid "There is currently no item in your catalog"
+msgstr "Il catalogo non contiene elementi"
+
+msgid "Unable to save changes"
+msgstr "Impossibile salvare i cambiamenti"
+
+msgid "%s added"
+msgstr "%s aggiunto"
+
+msgid "%s updated"
+msgstr "%s aggiornato"
+
+msgid "No category"
+msgstr "Senza categoria"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Delete"
+msgstr "Cancella"
+
+msgid "Up"
+msgstr "Su"
+
+msgid "Down"
+msgstr "Giù"
+
+msgid "Do you really want to delete %s?"
+msgstr "Vuoi veramente cancellare %s?"
+
+msgid "Catalog item"
+msgstr "Elemento del catalogo"
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "Image"
+msgstr "Immagine"
+
+msgid "Choose image"
+msgstr "Seleziona immagine"
+
+msgid "Remove image"
+msgstr "Rimuovi immagine"
+
+msgid "Catch phrase"
+msgstr "Frase esplicativa (catch phrase)"
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Read more"
+msgstr "Leggi altro"
+
+msgid "Display your catalog"
+msgstr "Visualizza il tuo catalogo"
+
+msgid "How to display your catalog"
+msgstr "Come visualizzare il tuo catalogo"
+
+msgid "Add a few items on the catalog admin panel and insert the shortcode [catalog] (including square backets) in a page or a post, where you want it to be displayed."
+msgstr ""
+"Aggiungi alcuni elementi tramite il pannello di amministrazione del "
+"catalogo, e utilizza nella pagina/post dove vuoi che venga visualizzato lo "
+"shortcode [catalog] (incluse le parentesi quadre)."

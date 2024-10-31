@@ -1,0 +1,90 @@
+# SC Catalog
+# Copyright 2011-2012 SARL SCOP Scil (email : contact@scil.coop)
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+msgid "Catalog"
+msgstr "Catalog"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "There is currently no item in your catalog"
+msgstr "There is currently no item in your catalog"
+
+msgid "Unable to save changes"
+msgstr "Unable to save changes"
+
+msgid "%s added"
+msgstr "%s added"
+
+msgid "%s updated"
+msgstr "%s updated"
+
+msgid "No category"
+msgstr "No category"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Do you really want to delete %s?"
+msgstr "Do your really want to delet %s"
+
+msgid "Catalog item"
+msgstr "Catalog item"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Choose image"
+msgstr "Choose image"
+
+msgid "Remove image"
+msgstr "Remove image"
+
+msgid "Catch phrase"
+msgstr "Catch phrase"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Read more"
+msgstr "Read more"
+
+msgid "Display your catalog"
+msgstr "Display your catalog"
+
+msgid "How to display your catalog"
+msgstr "How to display your catalog"
+
+msgid "Add a few items on the catalog admin panel and insert the shortcode [catalog] (including square backets) in a page or a post, where you want it to be displayed."
+msgstr "Add a few items on the catalog admin panel and insert the shortcode [catalog] (including square backets) in a page or a post, where you want it to be displayed."

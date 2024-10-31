@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juan David Rodríguez García <juandalibaba@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SC Catalog Spanish translation
+# Copyright 2012 Juan David Rodríguez García <juandalibaba@gmail.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid "Catalog"
+msgstr "Catalog"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "There is currently no item in your catalog"
+msgstr "El catálogo está vacío"
+
+msgid "Unable to save changes"
+msgstr "No puedo guardar los cambios"
+
+msgid "%s added"
+msgstr "%s añadido"
+
+msgid "%s updated"
+msgstr "%s actualizado"
+
+msgid "No category"
+msgstr "Sin categoría"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Up"
+msgstr "Arriba"
+
+msgid "Down"
+msgstr "Abajo"
+
+msgid "Do you really want to delete %s?"
+msgstr "¿Realmente quieres borrar %s?"
+
+msgid "Catalog item"
+msgstr "Item de Catalogo"
+
+msgid "Title"
+msgstr "Titulo"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Choose image"
+msgstr "Seleccionar imagen"
+
+msgid "Remove image"
+msgstr "Borrar image"
+
+msgid "Catch phrase"
+msgstr "Frase explicativa (catch phrase)"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Read more"
+msgstr "Leer más"
+
+msgid "Display your catalog"
+msgstr "Ver el catálogo"
+
+msgid "How to display your catalog"
+msgstr "Como mostrar el catálogo"
+
+msgid "Add a few items on the catalog admin panel and insert the shortcode [catalog] (including square backets) in a page or a post, where you want it to be displayed."
+msgstr "Añade algunos items de catálogo a través del panel de administración, y utiliza en la página/post donde quieras mostrarlo el shortcode [catalog]"
+

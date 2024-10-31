@@ -1,0 +1,90 @@
+# SC Catalog
+# Copyright 2011-2012 SARL SCOP Scil (email : contact@scil.coop)
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+msgid "Catalog"
+msgstr "Catalogue"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "There is currently no item in your catalog"
+msgstr "Il n'y a pour l'instant aucun élément dans votre catalogue"
+
+msgid "Unable to save changes"
+msgstr "Impossible d'enregistrer les changements"
+
+msgid "%s added"
+msgstr "%s ajouté"
+
+msgid "%s updated"
+msgstr "%s modifié"
+
+msgid "No category"
+msgstr "Sans catégorie"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Up"
+msgstr "Monter"
+
+msgid "Down"
+msgstr "Descendre"
+
+msgid "Do you really want to delete %s?"
+msgstr "Voulez-vous vraiment supprimer %s ?"
+
+msgid "Catalog item"
+msgstr "Élément du catalogue"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Choose image"
+msgstr "Choisir une image"
+
+msgid "Remove image"
+msgstr "Retirer l'image"
+
+msgid "Catch phrase"
+msgstr "Accroche"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Read more"
+msgstr "Plus d'info"
+
+msgid "Display your catalog"
+msgstr "Afficher votre catalogue"
+
+msgid "How to display your catalog"
+msgstr "Comment afficher votre catalogue"
+
+msgid "Add a few items on the catalog admin panel and insert the shortcode [catalog] (including square backets) in a page or a post, where you want it to be displayed."
+msgstr "Ajoutez quelques éléments dans le panneau d'administration du catalogue et ajoutez le raccourcis [catalogue] (avec les crochets) dans une page ou un article, où vous voulez qu'il s'affiche."

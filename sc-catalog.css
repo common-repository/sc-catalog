@@ -1,0 +1,82 @@
+/*
+	SC Catalog
+	Copyright 2011-2012 SARL SCOP Scil (email : contact@scil.coop)
+	
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 2 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+.sc-catalog-list {
+	margin: 0 auto 0 auto;
+	list-style-type: none !important;
+}
+
+.sc-catalog-list-item {
+	display: inline-block;
+	width: 28%;
+	margin: 1ex !important;
+	padding: 1ex !important;
+	background: #eee;
+	vertical-align: top;
+}
+
+.sc-catalog-list-item a.button-secondary {
+	line-height: 30px;
+}
+
+.sc-catalog-list-item-more {
+	text-align:right;
+}
+.sc-catalog-list-item a.button-secondary {
+	display: inline;
+}
+
+.sc-catalog-list-item img {
+	display: block !important;
+	margin: 5px auto 5px auto !important;
+}
+.sc-catalog-details img {
+	float: left;
+	margin: 1ex;
+}
+
+.sc-catalog-list-item h3,
+.sc-catalog-details h3 {
+	clear: none;
+}
+
+.sc-catalog-clear {
+	clear: both;
+}
+
+.sc-catalog-details {
+	line-height: 2em;
+}
+
+.sc-catalog-details h3 {
+	font-weight: bold;
+	font-size: x-large;
+	margin-top: 20px;
+	margin-bottom: 1em;
+}
+
+.sc-catalog-details .sc-catalog-catch-phrase {
+	font-weight: normal;
+	font-size: x-large;
+	margin-bottom: 20px;
+}
+
+.sc-catalog-details p {
+	margin-bottom: 1em;
+	clear: both;
+}

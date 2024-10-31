@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Attila Balogh <attila@balogh.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+# SC Catalog Hungarian translation
+# Copyright 2011-2012 SARL SCOP Scil (email : contact@scil.coop)
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid "Catalog"
+msgstr "Katalógus"
+
+msgid "Add"
+msgstr "Hozzáad"
+
+msgid "There is currently no item in your catalog"
+msgstr "Jelenleg üres a katalógus"
+
+msgid "Unable to save changes"
+msgstr "Hiba történt a mentés során"
+
+msgid "%s added"
+msgstr "%s hozzáadva"
+
+msgid "%s updated"
+msgstr "%s módosítva"
+
+msgid "No category"
+msgstr "Nincs kategória"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Up"
+msgstr "Fel"
+
+msgid "Down"
+msgstr "Le"
+
+msgid "Do you really want to delete %s?"
+msgstr "Valóban törölni akarod ezt: %s?"
+
+msgid "Catalog item"
+msgstr "Katalóguselem"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Image"
+msgstr "Kép"
+
+msgid "Choose image"
+msgstr "Képválasztás"
+
+msgid "Remove image"
+msgstr "Kép törlése"
+
+msgid "Catch phrase"
+msgstr "Jelmondat"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Read more"
+msgstr "További részletek"
+
+msgid "Display your catalog"
+msgstr "Katalógus megjelenítése"
+
+msgid "How to display your catalog"
+msgstr "Hogyan jelenjen meg a katalógus"
+
+msgid ""
+"Add a few items on the catalog admin panel and insert the shortcode "
+"[catalog] (including square backets) in a page or a post, where you want it "
+"to be displayed."
+msgstr ""
+"Adj hozzá néhány elemet a katalógushoz az adminisztrációs panelben, ezután a "
+"[catalog] shortcode beillesztésével (a szögletes zárójelekkel együtt!) tudod "
+"megjeleníteni a kívánt oldalon vagy bejegyzésben."
